@@ -1,5 +1,6 @@
-<?import javafx.scene.layout.GridPane?>
+<?xml version="1.0" encoding="UTF-8"?>
 
-<GridPane fx:controller="com.summ.radio.Controller"
-          xmlns:fx="http://javafx.com/fxml" alignment="center" hgap="10" vgap="10">
-</GridPane>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane style="-fx-background-image: url('/themes/green/background.png');" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.summ.radio.Controller">
+</AnchorPane>
