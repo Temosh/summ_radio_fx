@@ -1,0 +1,52 @@
+.root {
+    -fx-background-image: url('themes/green/background.png');
+}
+
+.btn_play {
+    -fx-image: url('themes/green/play0001.png');
+    -fx-translate-x: -5;
+    -fx-translate-y: 0;
+}
+
+.btn_play:hover {
+    -fx-image: url('themes/green/play0002.png');
+}
+
+.btn_stop {
+    -fx-image: url('themes/green/stop0001.png');
+    -fx-translate-x: 80;
+    -fx-translate-y: 20;
+}
+
+.btn_stop:hover {
+    -fx-image: url('themes/green/stop0002.png');
+}
+
+.btn_mute {
+    -fx-image: url('themes/green/mute0001.png');
+    -fx-translate-x: 360;
+    -fx-translate-y: -2;
+}
+
+.btn_mute:hover {
+    -fx-image: url('themes/green/mute0002.png');
+}
+
+.btn_next {
+    -fx-image: url('themes/green/next.png');
+    -fx-translate-x: 368;
+    -fx-translate-y: 118;
+}
+
+.btn_prev {
+    -fx-image: url('themes/green/next.png');
+    -fx-rotate: 180;
+    -fx-translate-x: 8;
+    -fx-translate-y: 118;
+}
+
+.logo {
+    -fx-image: url('themes/green/logo.png');
+    -fx-translate-x: 180;
+    -fx-translate-y: 35;
+}
