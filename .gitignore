@@ -56,3 +56,6 @@ out/
 
 # Spring configs
 .springBeans
+
+# Maven junk
+dependency-reduced-pom.xml
