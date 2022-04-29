@@ -1,0 +1,62 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="100px" height="100px" viewBox="0 0 100 100">
+<defs>
+<linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="0.65" y1="-12.787500000000001" x2="0.65" y2="18.2875" spreadMethod="pad">
+<stop  offset="0%" stop-color="#000000"/>
+
+<stop  offset="100%" stop-color="#9D9D9D"/>
+</linearGradient>
+
+<filter id="Filter_1" x="-48.04737854124365%" y="-48.04737854124365%" width="196.09475708248732%" height="196.09475708248732%" color-interpolation-filters="sRGB">
+<feGaussianBlur in="SourceGraphic" stdDeviation="6.666666666666667,6.666666666666667" result="result1"/>
+</filter>
+
+<filter id="Filter_2" x="-35.65685424949238%" y="-35.65685424949238%" width="171.31370849898477%" height="171.31370849898477%" color-interpolation-filters="sRGB">
+<feGaussianBlur in="SourceGraphic" stdDeviation="3.3333333333333335,3.3333333333333335" result="result1"/>
+</filter>
+
+<g id="Buttons_Components_But_Lighting_0_Layer0_0_FILL">
+<path fill="#00FFFF" stroke="none" d="
+M 28.15 11.75
+Q 16.5 0 0 0 -16.5 0 -28.25 11.75 -40 23.5 -40 40 -40 56.55 -28.25 68.15 -16.5 80 0 80 16.5 80 28.15 68.15 40 56.55 40 40 40 23.5 28.15 11.75 Z"/>
+</g>
+
+<g id="stop_background_0_Layer0_0_FILL">
+<path fill="#00FF00" stroke="none" d="
+M 17.65 -17.65
+Q 10.35 -25 0 -25 -10.35 -25 -17.65 -17.65 -25 -10.35 -25 0 -25 10.35 -17.65 17.65 -10.35 25 0 25 10.35 25 17.65 17.65 25 10.35 25 0 25 -10.35 17.65 -17.65 Z"/>
+</g>
+
+<g id="Buttons_Components_Stop_sym_0_Layer0_0_FILL">
+<path fill="url(#Gradient_1)" stroke="none" d="
+M 10.9 -10.9
+L -10.9 -10.9 -10.9 10.9 10.9 10.9 10.9 -10.9 Z"/>
+</g>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 50,50) ">
+<g filter="url(#Filter_1)" transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 0.75, 0, 0, 0.75, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, 0,-40) ">
+<use xlink:href="#Buttons_Components_But_Lighting_0_Layer0_0_FILL"/>
+</g>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g filter="url(#Filter_2)" transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, -25,-25) ">
+<g transform="matrix( 1, 0, 0, 1, 25,25) ">
+<use xlink:href="#stop_background_0_Layer0_0_FILL"/>
+</g>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 1.0091552734375, 0, 0, 1.0091552734375, 0,0) ">
+<use xlink:href="#Buttons_Components_Stop_sym_0_Layer0_0_FILL"/>
+</g>
+</g>
+</g>
+</g>
+</svg>

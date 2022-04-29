@@ -1,0 +1,68 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="42px" height="42px" viewBox="0 0 42 42">
+<defs>
+<linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="4.699999999999999" y1="-9.200000000000001" x2="11" y2="6" spreadMethod="pad">
+<stop  offset="18.823529411764707%" stop-color="#000000"/>
+
+<stop  offset="79.2156862745098%" stop-color="#999999"/>
+
+<stop  offset="100%" stop-color="#FFFFFF"/>
+</linearGradient>
+
+<linearGradient id="Gradient_2" gradientUnits="userSpaceOnUse" x1="4.949999999999999" y1="-9.200000000000001" x2="11.25" y2="6" spreadMethod="pad">
+<stop  offset="18.823529411764707%" stop-color="#000000"/>
+
+<stop  offset="79.2156862745098%" stop-color="#999999"/>
+
+<stop  offset="100%" stop-color="#FFFFFF"/>
+</linearGradient>
+
+<linearGradient id="Gradient_3" gradientUnits="userSpaceOnUse" x1="2.9625" y1="-3.9125" x2="5.0375" y2="3.9125" spreadMethod="pad">
+<stop  offset="18.823529411764707%" stop-color="#000000"/>
+
+<stop  offset="79.2156862745098%" stop-color="#999999"/>
+
+<stop  offset="100%" stop-color="#FFFFFF"/>
+</linearGradient>
+
+<filter id="Filter_1" x="-36.26318124902381%" y="-36.26318124902381%" width="172.5263624980476%" height="172.5263624980476%" color-interpolation-filters="sRGB">
+<feGaussianBlur in="SourceGraphic" stdDeviation="1.3333333333333333,1.3333333333333333" result="result1"/>
+</filter>
+
+<g id="mute_backgroud_0_Layer0_0_FILL">
+<path fill="#00FF00" stroke="none" d="
+M 15 28
+Q 20.4 28 24.2 24.2 28 20.4 28 15 28 9.6 24.2 5.8 20.4 2 15 2 9.6 2 5.8 5.8 2 9.6 2 15 2 20.4 5.8 24.2 9.6 28 15 28 Z"/>
+</g>
+
+<g id="Buttons_Components_Mute_sym_0_Layer0_0_FILL">
+<path fill="url(#Gradient_1)" stroke="none" d="
+M -2 -2.4
+L -2.8 -2.4 -2.8 2.4 -2 2.4 -2 -2.4 Z"/>
+
+<path fill="url(#Gradient_2)" stroke="none" d="
+M 2.9 5.4
+L 2.9 -5.4 -0.65 -2.4 -1.7 -2.4 -1.7 2.4 -0.65 2.4 2.9 5.4 Z"/>
+</g>
+
+<path id="Buttons_Components_Mute_sym_0_Layer0_0_1_STROKES" stroke="url(#Gradient_3)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 4.45 -2.1
+Q 4.95 -2 5.35 -1.55 5.9 -0.9 5.9 0 5.9 0.9 5.35 1.5 4.9 2.05 4.3 2.15"/>
+</defs>
+
+<g filter="url(#Filter_1)" transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, 6,6) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#mute_backgroud_0_Layer0_0_FILL"/>
+</g>
+</g>
+</g>
+
+<g transform="matrix( 1.4942626953125, 0, 0, 1.4814910888671875, 19,21) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Buttons_Components_Mute_sym_0_Layer0_0_FILL"/>
+
+<use xlink:href="#Buttons_Components_Mute_sym_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</svg>

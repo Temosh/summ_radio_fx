@@ -1,0 +1,96 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="42px" height="42px" viewBox="0 0 42 42">
+<defs>
+<linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="4.699999999999999" y1="-9.200000000000001" x2="11" y2="6" spreadMethod="pad">
+<stop  offset="18.823529411764707%" stop-color="#000000"/>
+
+<stop  offset="79.2156862745098%" stop-color="#999999"/>
+
+<stop  offset="100%" stop-color="#FFFFFF"/>
+</linearGradient>
+
+<linearGradient id="Gradient_2" gradientUnits="userSpaceOnUse" x1="4.949999999999999" y1="-9.200000000000001" x2="11.25" y2="6" spreadMethod="pad">
+<stop  offset="18.823529411764707%" stop-color="#000000"/>
+
+<stop  offset="79.2156862745098%" stop-color="#999999"/>
+
+<stop  offset="100%" stop-color="#FFFFFF"/>
+</linearGradient>
+
+<linearGradient id="Gradient_3" gradientUnits="userSpaceOnUse" x1="2.9625" y1="-3.9125" x2="5.0375" y2="3.9125" spreadMethod="pad">
+<stop  offset="18.823529411764707%" stop-color="#000000"/>
+
+<stop  offset="79.2156862745098%" stop-color="#999999"/>
+
+<stop  offset="100%" stop-color="#FFFFFF"/>
+</linearGradient>
+
+<linearGradient id="Gradient_4" gradientUnits="userSpaceOnUse" x1="-11.925" y1="8.2375" x2="12.025000000000002" y2="-8.1375" spreadMethod="pad">
+<stop  offset="0%" stop-color="#C40000" stop-opacity="0.8"/>
+
+<stop  offset="53.72549019607843%" stop-color="#FF0000" stop-opacity="0.8"/>
+
+<stop  offset="100%" stop-color="#410000" stop-opacity="0.8"/>
+
+<stop  offset="100%" stop-color="#410000" stop-opacity="0.6"/>
+</linearGradient>
+
+<filter id="Filter_1" x="-36.26318124902381%" y="-36.26318124902381%" width="172.5263624980476%" height="172.5263624980476%" color-interpolation-filters="sRGB">
+<feGaussianBlur in="SourceGraphic" stdDeviation="1.3333333333333333,1.3333333333333333" result="result1"/>
+</filter>
+
+<filter id="Filter_2" x="-43.430930891534494%" y="-40.98790132638389%" width="186.861861783069%" height="181.97580265276778%" color-interpolation-filters="sRGB">
+<feGaussianBlur in="SourceGraphic" stdDeviation="0.40000001589457196,0.40000001589457196" result="result1"/>
+</filter>
+
+<g id="unmute_background_0_Layer0_0_FILL">
+<path fill="#00FF00" stroke="none" d="
+M 9.25 -9.2
+Q 5.4 -13 0 -13 -5.4 -13 -9.2 -9.2 -13 -5.4 -13 0 -13 5.4 -9.2 9.2 -5.4 13 0 13 5.4 13 9.25 9.2 13 5.4 13 0 13 -5.4 9.25 -9.2 Z"/>
+</g>
+
+<g id="Buttons_Components_Mute_sym_0_Layer0_0_FILL">
+<path fill="url(#Gradient_1)" stroke="none" d="
+M -2 -2.4
+L -2.8 -2.4 -2.8 2.4 -2 2.4 -2 -2.4 Z"/>
+
+<path fill="url(#Gradient_2)" stroke="none" d="
+M 2.9 5.4
+L 2.9 -5.4 -0.65 -2.4 -1.7 -2.4 -1.7 2.4 -0.65 2.4 2.9 5.4 Z"/>
+</g>
+
+<path id="Buttons_Components_Mute_sym_0_Layer0_0_1_STROKES" stroke="url(#Gradient_3)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 4.45 -2.1
+Q 4.95 -2 5.35 -1.55 5.9 -0.9 5.9 0 5.9 0.9 5.35 1.5 4.9 2.05 4.3 2.15"/>
+
+<path id="Buttons_Components_MuteLine_0_Layer0_0_1_STROKES" stroke="url(#Gradient_4)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 4.85 -5.5
+L -4.8 5.5"/>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 21,21) ">
+<g filter="url(#Filter_1)" transform="matrix( 1, 0, 0, 1, -21,-21) ">
+<g transform="matrix( 1, 0, 0, 1, 8,8) ">
+<g transform="matrix( 1, 0, 0, 1, 13,13) ">
+<use xlink:href="#unmute_background_0_Layer0_0_FILL"/>
+</g>
+</g>
+</g>
+
+<g transform="matrix( 1.4942626953125, 0, 0, 1.48150634765625, -2,0) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Buttons_Components_Mute_sym_0_Layer0_0_FILL"/>
+
+<use xlink:href="#Buttons_Components_Mute_sym_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+
+<g filter="url(#Filter_2)" transform="matrix( 1, 0, 0, 1, -21,-21) ">
+<g transform="matrix( 1.246734619140625, 0, 0, 1.181793212890625, 21,21) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Buttons_Components_MuteLine_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+</g>
+</svg>
